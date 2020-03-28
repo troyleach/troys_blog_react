@@ -5,7 +5,7 @@ const { backgroundColor } = config.header
 
 export const HeaderContainer = styled.div`
   position: relative;
-  padding: 5em;
+  padding: 2em;
   text-align: center;
   background: ${backgroundColor};
   background-repeat: no-repeat;

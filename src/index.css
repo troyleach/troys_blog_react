@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Shadows+Into+Light|Quicksand|Playfair+Display:700i,900");
+@import url('https://fonts.googleapis.com/css?family=Courier+Prime&display=swap');
 
 html,
 body {
@@ -20,7 +21,8 @@ a,
 }
 
 h1 {
-  font-family: "Shadows Into Light", serif;
+  /* font-family: "Shadows Into Light", serif; */
+  font-family: 'Courier Prime', monospace;
   font-size: 48px;
   text-align: left;
   margin-bottom: 8px;
