@@ -6,7 +6,7 @@ export const config = {
   githubUserName: "troyleach",
 
   // Your Github Repo Name Where You Have your issues as Blog
-  githubRepo: "react-blog-github",
+  githubRepo: "troys_blog_react",
 
   // Set it to true if you have a Github app to add to this project
   // and fill the client ID & secret
@@ -16,10 +16,10 @@ export const config = {
   OAuthSecret: 'cc3db76ffe9848c92d83172807eececa79f0eb22',
 
   // Your Personal Blog Title
-  title : "Troy's Blog" ,
+  title: '{ "blog": { "by": "Troy Leach" } }',
 
   // Your Personal Blog Subtitle
-  subtitle : "Software Developer",
+  subtitle: "Software Developer",
 
   // Header customization
   header: {
