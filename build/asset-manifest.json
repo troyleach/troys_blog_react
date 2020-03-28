@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/troys_blog_react/static/css/main.85cb079d.chunk.css",
+    "main.js": "/troys_blog_react/static/js/main.dca8d8c7.chunk.js",
+    "main.js.map": "/troys_blog_react/static/js/main.dca8d8c7.chunk.js.map",
+    "runtime-main.js": "/troys_blog_react/static/js/runtime-main.ef76bb1e.js",
+    "runtime-main.js.map": "/troys_blog_react/static/js/runtime-main.ef76bb1e.js.map",
+    "static/js/2.719ef627.chunk.js": "/troys_blog_react/static/js/2.719ef627.chunk.js",
+    "static/js/2.719ef627.chunk.js.map": "/troys_blog_react/static/js/2.719ef627.chunk.js.map",
+    "index.html": "/troys_blog_react/index.html",
+    "precache-manifest.0fd930aff0980239ba0190441ad6c1f3.js": "/troys_blog_react/precache-manifest.0fd930aff0980239ba0190441ad6c1f3.js",
+    "service-worker.js": "/troys_blog_react/service-worker.js",
+    "static/css/main.85cb079d.chunk.css.map": "/troys_blog_react/static/css/main.85cb079d.chunk.css.map",
+    "static/js/2.719ef627.chunk.js.LICENSE": "/troys_blog_react/static/js/2.719ef627.chunk.js.LICENSE",
+    "static/media/loader.svg": "/troys_blog_react/static/media/loader.65f8709d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef76bb1e.js",
+    "static/js/2.719ef627.chunk.js",
+    "static/css/main.85cb079d.chunk.css",
+    "static/js/main.dca8d8c7.chunk.js"
+  ]
+}
